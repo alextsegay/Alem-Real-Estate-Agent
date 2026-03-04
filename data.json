@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1772315409,
+        "title": "big house",
+        "price": "15,000,000",
+        "location": "mekell",
+        "type": "For Sale",
+        "status": "Available",
+        "beds": "3",
+        "baths": "5",
+        "sqm": "130",
+        "images": [
+            "uploads\/1772315409_agent1.1.jpg",
+            "uploads\/1772315409_agent1.2.jpg",
+            "uploads\/1772315409_agent1.jpg"
+        ],
+        "desc": "Knowing and setting permissions is the \"invisible\" part of web hosting that often causes 404 or \"Access Denied\" errors. Since you are using PHP to upload files and save a JSON file, your server needs Write Permissions.",
+        "phone": "0962238776",
+        "wa": "+251962238776",
+        "tele": ""
+    },
+    {
+        "id": 1772315409,
+        "title": "big house",
+        "price": "17,000,000",
+        "location": "mekell",
+        "type": "For Sale",
+        "status": "Available",
+        "beds": "3",
+        "baths": "5",
+        "sqm": "130",
+        "images": [
+            "uploads\/1772315409_agent2.jpg",
+            "uploads\/1772315409_agent2.1.jpg",
+            "uploads\/1772315409_agent2.2.jpg"
+        ],
+        "desc": "Knowing and setting permissions is the \"invisible\" part of web hosting that often causes 404 or \"Access Denied\" errors. Since you are using PHP to upload files and save a JSON file, your server needs Write Permissions.",
+        "phone": "0962238776",
+        "wa": "+251962238776",
+        "tele": ""
+    },
+    {
+        "id": 1772316903,
+        "title": "Modern Villa in Bole",
+        "price": "22,000,000",
+        "location": "Bole Atlas, Addis Ababa",
+        "type": "For Sale",
+        "status": "Available",
+        "beds": "4",
+        "baths": "7",
+        "sqm": "340",
+        "images": [
+            "uploads\/1772316903_oz2sb5qfwrrdtd7gr7yv.jpg",
+            "uploads\/1772316903_qwvjojvmwxtvnordjbhq.jpg",
+            "uploads\/1772316903_zffnpwbznjib4vuf64yq.jpg"
+        ],
+        "desc": "Knowing and setting permissions is the \"invisible\" part of web hosting that often causes 404 or \"Access Denied\" errors. Since you are using PHP to upload files and save a JSON file, your server needs Write Permissions.",
+        "phone": "0962238776",
+        "wa": "+251962238776",
+        "tele": "t.me\/@Alex_p4x",
+        "map_link": "https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m12!1m3!1d1438.6971755677741!2d38.74573295162813!3d8.976348931590561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2set!4v1772316853489!5m2!1sen!2set"
+    },
+    {
+        "id": 1772317882,
+        "title": "bole house apartama",
+        "price": "67,000,000",
+        "location": "Bole Atlas, Addis Ababa",
+        "type": "For Sale",
+        "status": "Available",
+        "beds": "4",
+        "baths": "6",
+        "sqm": "450",
+        "images": [
+            "uploads\/1772317882_oz2sb5qfwrrdtd7gr7yv.jpg",
+            "uploads\/1772317882_qwvjojvmwxtvnordjbhq.jpg",
+            "uploads\/1772317882_zffnpwbznjib4vuf64yq.jpg"
+        ],
+        "desc": "Knowing and setting permissions is the \"invisible\" part of web hosting that often causes 404 or \"Access Denied\" errors. Since you are using PHP to upload files and save a JSON file, your server needs Write Permissions.",
+        "phone": "0962238776",
+        "wa": "+251962238776",
+        "tele": "https:\/\/t.me\/@Alex_p4x",
+        "map": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m10!1m8!1m3!1d234.12248265621412!2d38.74611826080031!3d8.97629872011223!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2set!4v1772317842934!5m2!1sen!2set\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>"
+    },
+    {
+        "id": 1772539277,
+        "title": "vila in bole",
+        "price": "15,000,000",
+        "location": "Bole Atlas, Addis Ababa",
+        "type": "For Rent",
+        "status": "Available",
+        "beds": "6",
+        "baths": "5",
+        "sqm": "3050",
+        "images": [
+            "uploads\/1772539277_1772315409_agent1.jpg",
+            "uploads\/1772539277_1772315409_agent2.1.jpg",
+            "uploads\/1772539277_1772315409_agent2.2.jpg",
+            "uploads\/1772539277_1772317882_zffnpwbznjib4vuf64yq.jpg"
+        ],
+        "desc": "\r\nDescribe the luxury features..\r\nbole new house villa",
+        "phone": "0962238776",
+        "wa": "+251962238776",
+        "tele": "Alex_p4x",
+        "map": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m10!1m8!1m3!1d234.12248265621412!2d38.74611826080031!3d8.97629872011223!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2set!4v1772317842934!5m2!1sen!2set\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "video": "",
+        "amenities": " WiFi, Gated, Generator, Parking.",
+        "featured": "yes"
+    },
+    {
+        "id": 1772541466,
+        "title": "house in CMC",
+        "price": "10,000,000",
+        "location": "CMC, Addis Ababa",
+        "type": "For Sale",
+        "status": "Available",
+        "beds": "6",
+        "baths": "5",
+        "sqm": "260",
+        "images": [
+            "uploads\/1772541466_1772315409_agent1.1.jpg",
+            "uploads\/1772541466_1772315409_agent1.2.jpg",
+            "uploads\/1772541466_1772316903_oz2sb5qfwrrdtd7gr7yv.jpg",
+            "uploads\/1772541466_1772316903_qwvjojvmwxtvnordjbhq.jpg"
+        ],
+        "desc": "\r\nG+5 Building for sale located in CMC, Addis Ababa Ethiopia priced at 60,000,000 ETB. Call to view today: +251 911223344",
+        "phone": "+251962238776",
+        "wa": "+251962238776",
+        "tele": "Alex_p4x",
+        "map": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m10!1m8!1m3!1d234.12248265621412!2d38.74611826080031!3d8.97629872011223!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2set!4v1772317842934!5m2!1sen!2set\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "video": "",
+        "amenities": " WiFi, Gated, Generator,",
+        "featured": "yes"
+    }
+]
